@@ -1,6 +1,6 @@
 {
   "name": "maximilian210-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,9 @@
     "url": "https://github.com/max210/maximilian210-utils"
   },
   "author": "maximilian210",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "date-fn": "^0.0.2",
+    "dayjs": "^1.11.10"
+  }
 }
