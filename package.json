@@ -1,6 +1,6 @@
 {
   "name": "maximilian210-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "date-fn": "^0.0.2",
-    "dayjs": "^1.11.10"
+    "dayjs": "^1.11.10",
+    "haoli922-uu": "^1.0.0",
+    "hooks-use-setinterval": "^1.0.0"
   }
 }
